@@ -1,5 +1,5 @@
-# CodeAlpha-Files-Organizer
-The Automatic Files Organizer is a Python script that sorts your Downloads folder into subfolders by file extension, creating a tidy and navigable structure. It's customizable, saves time, and enhances workflow by automating file organization##.
+## Auto File Organizer
+The Auto File Organize is a Python script that sorts your Downloads folder into subfolders by file extension, creating a tidy and navigable structure. It's customizable, saves time, and enhances workflow by automating file organization##.
 
 #### This Python script helps you organize your Downloads folder by automatically sorting files into subfolders based on their extensions.
 
